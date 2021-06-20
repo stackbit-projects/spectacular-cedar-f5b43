@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 
 # SciHype
 
-Welcome to the SciHype webpage. Follow us on social media to be updated 
+Welcome to the SciHype webpage. Follow us on social media to be updated! 
